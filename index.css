@@ -131,7 +131,11 @@ a{
     z-index: 9999;
     display: none;
   }
-  
+  footer{
+   position: absolute;
+   left: 450px;
+   padding: 10px;
+  }
   @keyframes spin {
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
@@ -191,4 +195,7 @@ a{
         width: 300px;
         object-fit: cover;
      }
+     footer{
+        padding: 50px;
+       }
 }
