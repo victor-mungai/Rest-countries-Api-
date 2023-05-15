@@ -132,8 +132,6 @@ a{
     display: none;
   }
   footer{
-   position: absolute;
-   left: 450px;
    padding: 10px;
   }
   @keyframes spin {
@@ -196,6 +194,6 @@ a{
         object-fit: cover;
      }
      footer{
-        padding: 50px;
+        padding: 10px;
        }
 }
