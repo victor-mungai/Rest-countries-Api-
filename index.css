@@ -194,6 +194,7 @@ a{
         object-fit: cover;
      }
      footer{
-        padding: 10px;
+        position: absolute;
+        top: 800px;
        }
 }
